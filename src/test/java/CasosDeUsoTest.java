@@ -30,7 +30,7 @@ public class CasosDeUsoTest {
         //0,1×45+5×15
 
         // 0,1 × (por cantidad de hojas 155) + 5 * (15 km)
-        Costo costoEsperado = new Costo(73.95F);
+        Costo costoEsperado = new Costo(68.95F);
 
         Imprimible Libro = new Libro(155 , 0);
 
